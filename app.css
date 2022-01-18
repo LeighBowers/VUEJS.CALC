@@ -1,0 +1,41 @@
+*{
+    margin: 3%;
+  padding: 3%;
+  font-size: 1.2rem;
+  font-family: readFont;
+  position: relative;
+ 
+}
+#app {
+  justify-content: center;
+  align-items: center;
+  color: rgb(199, 33, 11);
+}
+
+/* .btn-all{
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0.8rem 1.8rem;
+  text-decoration: none;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  display: inline-block;
+  transition: all .3s;
+  white-space: nowrap;
+  color: #302B2C;
+  box-shadow: 2px 2px 4px rgba(black,0.3);
+  text-transform: capitalize;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+ 
+} */
+
+.btn2{
+  justify-content: center;
+  align-items: center;
+  color: rgb(199, 33, 11);
+}
